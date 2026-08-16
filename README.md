@@ -35,4 +35,4 @@ python app.py
 
 Note
 
-This project was originally developed in 2021. Running it may require older versions of Python, Flask, NumPy, and Scikit-learn because of dependency compatibility with the saved model.
+This project was originally developed in 2022. Running it may require older versions of Python, Flask, NumPy, and Scikit-learn because of dependency compatibility with the saved model.
